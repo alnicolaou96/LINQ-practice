@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe.config
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\bin\Debug\LinqPractice.exe
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\bin\Debug\LinqPractice.pdb
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\obj\Debug\LinqPractice.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\obj\Debug\LinqPractice.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\obj\Debug\LinqPractice.exe
+C:\Users\WeCanCodeIT\source\repos\LinqPractice\LinqPractice\obj\Debug\LinqPractice.pdb
